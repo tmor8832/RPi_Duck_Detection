@@ -10,8 +10,6 @@ This code will record clips where the object is detected and save them to your c
 <b>Step 1.</b> Walk through the object detection tutorial by Nick Nochnack and generate the TFlite files. The important one is the .tflite file. https://github.com/nicknochnack/TFODCourse
 <br/><br/>
 <b>Step 2.</b> Clone this repository onto your Raspberry Pi or copy it from a machine using RDP.
-<pre> 
-<br/>
 <b>Step 3.</b>Install the required dependencies onto your Raspberry Pi
 <pre>
 pip3 install opencv-python 
