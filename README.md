@@ -25,9 +25,9 @@ curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key add -
 sudo apt-get update
 sudo apt-get install python3-tflite-runtime OR if on normal linux machine python3 -m pip install tflite-runtime
 </pre>
-<br/><br/>
+<br/>
 <b>Step 4.</b> Copy your detect.tflite model into the same repository and update the labels.txt file to represent your labels. 
-<br/><br/>
+<br/>
 <b>Step 5.</b> Run real time detections using the detect.py script
 <pre>python3 detect.py</pre>
-<br/><br/>
+<br/>
