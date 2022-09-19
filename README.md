@@ -2,15 +2,16 @@
 Trained object detection model which can be easily deployed on RPi. This model is trained on a camoflagued duck.
 This code will record clips where the object is detected and save them to your current directory with timestamp of when clip was captured.
 
+![image](https://user-images.githubusercontent.com/64171887/191004641-bfc8b554-cc01-4afd-a472-0c49728b5c25.png)
+
 # Tensorflow Object Detection Walkthrough with Raspberry Pi
 <p>The following repository will allow you to leverage Tensorflow Object Detection models that have been converted to TFLite on a Raspberry Pi.
 ## Steps
-<br />
 <b>Step 1.</b> Walk through the object detection tutorial by Nick Nochnack and generate the TFlite files. The important one is the .tflite file. https://github.com/nicknochnack/TFODCourse
 <br/><br/>
 <b>Step 2.</b> Clone this repository onto your Raspberry Pi or copy it from a machine using RDP.
 <pre> 
-<br/><br/>
+<br/>
 <b>Step 3.</b>Install the required dependencies onto your Raspberry Pi
 <pre>
 pip3 install opencv-python 
