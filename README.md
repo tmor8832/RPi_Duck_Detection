@@ -1,6 +1,8 @@
 # RPi_Obj_Detection
-Trained object detection model which can be easily deployed on RPi. This model is trained on a camoflagued duck.
+Trained object detection model which can be easily deployed on RPi. This model is trained on a camouflaged duck.
 This code will record clips where the object is detected and save them to your current directory with timestamp of when clip was captured.
+
+# Youtube Video Demo https://youtu.be/z2xZA2tZqcI
 
 ![image](https://user-images.githubusercontent.com/64171887/191004641-bfc8b554-cc01-4afd-a472-0c49728b5c25.png)
 
